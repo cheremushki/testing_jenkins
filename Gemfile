@@ -1,4 +1,4 @@
-source "http://rubygems.org"
+source "https://rubygems.org"
 gem "puppet", "=2.7.17"
 gem "ci_reporter", "=1.7.0"
 gem "rspec-puppet", "=0.1.3"
