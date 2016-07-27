@@ -1,0 +1,5 @@
+source "http://rubygems.org"
+gem "puppet", "=2.7.17"
+gem "ci_reporter", "=1.7.0"
+gem "rspec-puppet", "=0.1.3"
+gem "puppet-lint", "=0.1.13"
